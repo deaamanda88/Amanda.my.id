@@ -32,3 +32,6 @@ https://ig.me/deamanda_ptri
 
 https://maps.app.goo.gl/784bnqFsSdS4XR2y5
 
+## Preview My Project
+
+www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FPCQPlP57NLefHlgO7ETYYy%2FUntitled%3Fnode-id%3D1-2%26t%3DHjIDMo97IROTly0w-1%26scaling%3Dmin-zoom%26page-id%3D0%253A1" 
