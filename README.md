@@ -1,5 +1,5 @@
 # PORTOFOLIO AMANDA
- This is my personal website which contains about my profile, photos, links,social media, projects, skills, testimonials and more ..
+ This is my personal website which contains about my profile, photos, links,social media..
 
 
 ## Features
