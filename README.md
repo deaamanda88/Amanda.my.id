@@ -32,5 +32,3 @@ https://ig.me/deamanda_ptri
 
 https://maps.app.goo.gl/784bnqFsSdS4XR2y5
 
-## Preview My Project
-
