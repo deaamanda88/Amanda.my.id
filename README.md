@@ -1,4 +1,4 @@
-FEATURES
+Features
 1. About Me:
 2. Portofolio:
 3. Reach:
